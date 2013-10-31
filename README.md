@@ -17,7 +17,7 @@ you may run something like:
 Run:
 
     parse_pdepend.php sites/default/files/ci/test.xml dest.csv
-    in this version dest.csv is ignored. Eventually dest.csv might
-    be used to export the data for use with Jenkins.
+
+in this version dest.csv is ignored. Eventually dest.csv might be used to export the data for use with Jenkins.
 
 by Albert Albala, https://drupal.org/user/245583
